@@ -1,0 +1,30 @@
+
+
+
+body {
+    background-color: aqua;
+} 
+
+h1{
+
+    color: black;
+
+}
+
+div {
+    background-color: brown;
+    color: blueviolet;
+    border-style: solid;
+}
+h3 {color:black;
+
+}
+
+h4 {
+    color: pink;
+}
+
+
+#large-paragraph {
+    font-size: 35px;
+}
