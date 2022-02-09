@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: aqua;
+    background-color: grey;
 } 
 
 h1{
@@ -27,4 +27,8 @@ h4 {
 
 #large-paragraph {
     font-size: 35px;
+}
+
+.every-second li:nth-child(2n){
+    color: gold;
 }
